@@ -1,0 +1,6 @@
+service: () -> {
+    setAccounts: (text, text, text, text, text) -> (text);
+    validateAccounts: (text, text) -> (text) query;
+    validateDocId: (text) -> (text) query;
+    validatePubKey: (text) -> (text) query;
+}
